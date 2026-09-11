@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Laiba Aftab 👋
 
-<!--
-**laibapafaftab-debug/laibapafaftab-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Junior%20Python%20Developer-Frontend%20Learner-blue?style=for-the-badge&logo=python" alt="Title">
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am passionate about building real-world projects, exploring Python programming, frontend web development, and AI workflow automation. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+* **Programming & Backend:** Python, Pygame, Backend Logic
+* **Frontend Development:** HTML5, CSS3, JavaScript, Responsive UI, SVG Graphics
+* **AI & Automation:** AI Prompt Engineering, Workflow Automation, Streamlit, Gemini API
+* **Tools & Version Control:** Git, GitHub, Visual Studio Code, Ruff, Pylint
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=laibapafaftab-debug&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [Laiba Aftab](https://www.linkedin.com/in/laiba-aftab-211705420)
+* **Portfolio:** [AuraStudio & Web Demos](https://laibapafaftab-debug.github.io/custom-web-demo/)
