@@ -1,8 +1,8 @@
-### Hi there, I'm Laiba Aftab 👋
+### Hi there, I'm Laiba Aftab 
 
 <img src="https://img.shields.io/badge/Junior%20Python%20Developer-Frontend%20Learner-blue?style=for-the-badge&logo=python" alt="Title">
 
-Welcome to my GitHub profile! I am passionate about building real-world projects, exploring Python programming, frontend web development, and AI workflow automation. 🚀
+Welcome to my GitHub profile! I am passionate about building real-world projects, exploring Python programming, frontend web development, and AI workflow automation. 
 
 ---
 
