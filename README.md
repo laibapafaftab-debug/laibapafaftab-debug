@@ -12,6 +12,12 @@ Welcome to my GitHub profile! I am passionate about building real-world projects
 * **AI & Automation:** AI Prompt Engineering, Workflow Automation, Streamlit, Gemini API
 * **Tools & Version Control:** Git, GitHub, Visual Studio Code, Ruff, Pylint
 
+## 🚀 Featured Projects
+- [AuraStudio] — AI automation & lead capture system
+- [AI Lead Widget] — FastAPI + Google Gemini integration
+
+## 📚 Practice Projects
+- Small projects to strengthen my skills in HTML/CSS/JS
 ---
 
 ### 📊 GitHub Stats
@@ -19,8 +25,6 @@ Welcome to my GitHub profile! I am passionate about building real-world projects
   <img src="https://github-readme-stats.vercel.app/api?username=laibapafaftab-debug&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
-### 📫 Connect with Me
-* **LinkedIn:** [Laiba Aftab](https://www.linkedin.com/in/laiba-aftab-211705420)
-* **Portfolio:** [AuraStudio & Web Demos](https://laibapafaftab-debug.github.io/custom-web-demo/)
+📫 Connect with Me
+LinkedIn:  Laiba Aftab https://www.linkedin.com/in/laiba-aftab-211705420
+Portfolio: AuraStudio & Web Demos https://laibapafaftab-debug.github.io/custom-web-demo/
