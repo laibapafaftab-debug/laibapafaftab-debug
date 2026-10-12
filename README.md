@@ -50,11 +50,3 @@ Built four projects, each reviewed as Strong, covering responsive design, JavaSc
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=laibapafaftab-debug&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-📫 Connect with Me
-
-
-LinkedIn:  Laiba Aftab https://www.linkedin.com/in/laiba-aftab-211705420
-
-
-Portfolio: AuraStudio & Web Demos https://laibapafaftab-debug.github.io/custom-web-demo/
